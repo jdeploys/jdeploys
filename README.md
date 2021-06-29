@@ -8,9 +8,9 @@
 
 Skills: **[web]** typescript, vue, react, scss / **[app]** react-native, expo
 
-Sub-Skills: **[infra]** AWS, netlify, jenkins / **[tools]** anything
+Sub-Skills: **[infra]** AWS, netlify, jenkins, firebase / **[tools]** anything
 
-Experience Languages: C, C++, C#, JAVA, Objective-C, javascript, python, PHP, swift
+Experience Languages: C, C++, C#, JAVA, Objective-C, swift, python, PHP, javascript
 
 - 🔭 I’m currently working on [this page](https://gitmoji-js.netlify.app). 
 - 🌱 I’m currently learning expo, svelte 
