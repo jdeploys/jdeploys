@@ -1,14 +1,20 @@
 ### Hi there 👋, my name is jskim
 #### I am frontend developer.
 2010년에 개발을 시작해서 계속 멈추지 않는 개발자입니다.
+
 웹 프론트엔드에 관심이 많고 다양한 문제와 기술을 만나는 것이 즐겁습니다.
+
 새로운 것에 대해서 언제나 열린 마음으로 다가가려 노력합니다 :)
 
 Skills: **[web]** typescript, vue, react, scss / **[app]** react-native, expo
 
+Sub-Skills: **[infra]** AWS, netlify, jenkins / **[tools]** anything
+
+Experience Languages: C, C++, C#, JAVA, Objective-C, javascript, python, PHP, swift
+
 - 🔭 I’m currently working on [this page](https://gitmoji-js.netlify.app). 
 - 🌱 I’m currently learning expo, svelte 
-- 📫 How to reach me: **[email]** dcjuja@gmail.com 
+- 📫 How to reach me: **[email]** dcjuja@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jdeploys)  
